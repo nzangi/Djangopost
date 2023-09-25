@@ -45,7 +45,7 @@ a.article-title:hover{
 .article-img{
     height: 65px;
     width: 65px;
-    margin-right: 16px;
+    display: flex;
 
 }
 .article-metadata{
@@ -81,8 +81,8 @@ a.article-title:hover{
     display: flex;
     align-items: center;
     border-bottom: 2px solid #e3e3e3;
-    padding-top: 2px;
     background-color: #a2b4c4;
+    padding-top: 2px;
     border-radius: 5px;
     margin-bottom: 10px;
 
